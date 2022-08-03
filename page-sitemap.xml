@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://technira.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://technira.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://technira.github.io/</loc>
+		<loc>http://technira.github.io/</loc>
 	</url>
 	<url>
-		<loc>https://technira.github.io/contact-us/</loc>
+		<loc>http://technira.github.io/contact-us/</loc>
 		<lastmod>2022-04-26T22:10:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://technira.github.io/privacy-policy/</loc>
+		<loc>http://technira.github.io/privacy-policy/</loc>
 		<lastmod>2022-04-27T06:42:08+00:00</lastmod>
 	</url>
 </urlset>

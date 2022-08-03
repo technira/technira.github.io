@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Contact Us	</title>
-	<atom:link href="https://technira.github.io/contact-us/feed/" rel="self" type="application/rss+xml" />
-	<link>https://technira.github.io</link>
+	<atom:link href="http://technira.github.io/contact-us/feed/" rel="self" type="application/rss+xml" />
+	<link>http://technira.github.io</link>
 	<description></description>
 	<lastBuildDate>Tue, 26 Apr 2022 22:10:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
